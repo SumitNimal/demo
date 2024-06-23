@@ -2,5 +2,5 @@
 
 Just for the sake of demo (obivous from name)
 <br>
-author : JWH
+author : Jinx
 <br>
